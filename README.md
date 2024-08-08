@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Risha Sri</h1>
-- 🔭 I’m currently working on **MERN projects**
-
+- 🔭 I’m currently working on MERN projects
 - 🌱 I’m currently learning **MERN development and Data Structures and Algorithm**
-
 - 👯 I’m looking to collaborate on **Web development projects**
-
 - 👨‍💻 All of my projects are available at [https://risha2004.github.io/portfolio/](https://risha2004.github.io/portfolio/)
-
 - 💬 Ask me about **React, CPP and Front-end**
-
 - 📫 How to reach me **risha240704@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
